@@ -1,4 +1,6 @@
-## 👋 Welcome to my GitHub
+# 👋 Welcome to my GitHub
+![Naples](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Napoli.jpg/2560px-Napoli.jpg)
+## 👤 Who I am
 Hello to everyone, I’m Salvatore from Naples, the third most populated city in Italy and I am currently based in London.
 ## ❤️ What I like to do
 I’m interested in computer science, movies, series, books, travels, food and music.
